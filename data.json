@@ -1,0 +1,201 @@
+{
+  "menu-version": "9.4.0",
+  "min-version": "4.5.1",
+  "min-console-version": "2.8.0",
+  "discord-invite": "https://discord.gg/aNv7fSycRy",
+  "motd": "You are using build {0}. This menu was created by Seralyth Software. This menu is completely free and open sourced, if you paid for this menu you have been scammed. There are a total of <b>{1}</b> mods on this menu. <color=red>Seralyth is not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility.\n\nCurrent status: <b>Fully functional, undetected</b>\nMade with love by the community.\n\n<alpha=128>{2} {0} {3}<alpha=255>",
+  "admins": [
+    {
+      "name": "ZlothY",
+      "user-id": "FF912EF4590C7E35",
+      "discord-id": "832552302027079710"
+    },
+    {
+      "name": "test",
+      "user-id": "EF42CBBAEBE42EA",
+      "discord-id": "1244744453990776932"
+    },
+    {
+      "name": "industry",
+      "user-id": "4605B2A0900028E1",
+      "discord-id": "1340165954981724255"
+    },
+    {
+      "name": "NovaIsCool",
+      "user-id": "34E8C4F92B2D79BD",
+      "discord-id": "1245524855147859993"
+    },
+    {
+      "name": "smilk",
+      "user-id": "6D98F8C3F4C218C8",
+      "discord-id": "1122611609408381053"
+    },
+    {
+      "name": "Cha",
+      "user-id": "E561B7176AAC1245",
+      "discord-id": "1353949181571633173"
+    },
+    {
+      "name": "lerpyyy",
+      "user-id": "EBF4D7AE3CD9E4E6",
+      "discord-id": "792576219785986090"
+    },
+    {
+      "name": "sub2shibagt",
+      "user-id": "F3E8A56B1E35DACD",
+      "discord-id": "1364897848528736318"
+    },
+    {
+      "name": "multifactor",
+      "user-id": "3EA37234BDD23625",
+      "discord-id": "1392621350249824486"
+    },
+    {
+      "name": "onynring",
+      "user-id": "BC47DD4A488A0302",
+      "discord-id": "311503550951981056"
+    },
+    {
+      "name": "kingofnetflix",
+      "user-id": "19CC01E8F0B98F01",
+      "discord-id": "1479765842131681350"
+    },
+     {
+      "name": "VR12",
+      "user-id": "707651F6F1AD29F8",
+      "discord-id": "810014649490997311"
+    },
+     {
+      "name": "Jalaxy",
+      "user-id": "C58E8E17BD334214",
+      "discord-id": "1432590680831688759"
+    },
+     {
+      "name": "Quackers",
+      "user-id": "D0754638285539A2",
+      "discord-id": "1360842186748461096"
+    },
+     {
+      "name": "1x1x1x1VR12",
+      "user-id": "2257E2881F97EAC4",
+      "discord-id": "810014649490997311"
+    },
+    {
+     "name": "1x1x1x1VR121",
+      "user-id": "86AF3B9F3A525AA8",
+      "discord-id": "810014649490997311"
+    },
+    {
+     "name": "1x1x1x1VR1212",
+      "user-id": "B3B46AA3FC3BAEB",
+      "discord-id": "810014649490997311"
+    },
+     {
+     "name": "FemboyFurry",
+      "user-id": "B52B30926D69DEAE",
+      "discord-id": "1328968895838818388"
+    },
+      {
+     "name": "DeadAndGone5451",
+      "user-id": "BDC962BFA7DE23D9",
+      "discord-id": "1181354054165725214"
+    },
+     {
+     "name": "Gavs",
+      "user-id": "201826B571E4D1AD",
+      "discord-id": "1508479147536810015"
+    },
+    {
+     "name": "Lawson",
+      "user-id": "E9E16761594AC84B",
+      "discord-id": "1199930025009483776"
+    },
+    {
+     "name": "Sprinkle",
+      "user-id": "9E984DE179EBF441",
+      "discord-id": "1355756804080013483"
+    },
+     {
+     "name": "1x1x1x1VR123",
+      "user-id": "4F37AE2B357CCBB9",
+      "discord-id": "810014649490997311"
+    },
+     {
+     "name": "DeadAndGone5154",
+      "user-id": "84ABA91939ABCADA",
+      "discord-id": "1181354054165725214"
+    },
+      {
+     "name": "ObjectGT",
+      "user-id": "69B87228EC7FF7F2",
+      "discord-id": "1328968895838818388"
+    },
+      {
+     "name": "JalaxyAlt",
+      "user-id": "C50C0AC29D9580E3",
+      "discord-id": "1432590680831688759"
+    },
+     {
+     "name": "Lexi",
+      "user-id": "A4E06D8CDF522CDA",
+      "discord-id": "1361940738828664945"
+    },
+     {
+     "name": "crimsone-chan",
+      "user-id": "F8B6C8CF1A444EC3",
+      "discord-id": "1505252342566490363"
+    },
+     {
+     "name": "Larp",
+      "user-id": "621C2851D942720B",
+      "discord-id": "1162848879427997856"
+    },
+    {
+     "name": "Lexi",
+      "user-id": "ECA1FAD872EC5EF3",
+      "discord-id": "1361940738828664945"
+    },
+     {
+     "name": "Twig",
+      "user-id": "2B3F91D308F7100F",
+      "discord-id": "1505252342566490363"
+    }
+    
+  ],
+  "super-admins": [
+    "kingofnetflix",
+    "multifactor",
+    "Twig",
+    "VR12",
+    "Jalaxy",
+    "Quackers",
+    "1x1x1x1VR12",
+    "1x1x1x1VR121",
+    "1x1x1x1VR1212",
+    "FemboyFurry",
+    "DeadAndGone5451",
+    "Gavs",
+    "Lawson",
+    "Sprinkle",
+    "1x1x1x1VR123",
+    "DeadAndGone5154",
+    "crimsone-chan",
+  ],
+  "april_fools": {
+    "sex": false
+  },
+  "patreon": [],
+  "detected-mods": [
+    "Kick Gun",
+    "Kick All",
+    "Lag Server",
+    "Crash Server",
+    "Freeze Server",
+    "Za Warudo <color=grey>[</color><color=green>T</color><color=grey>]</color>",
+    "Fling Shotgun",
+    "AFR <color=grey>[</color><color=green>Auto Flush Report</color><color=grey>]</color>"
+  ],
+  "poll": "I had to get a new acc but got everything back. :)",
+  "option-a": "At least of mods saved👍!",
+  "option-b": "Yippe🥳"
+}
