@@ -5,61 +5,6 @@
   "discord-invite": "https://discord.gg/aNv7fSycRy",
   "motd": "You are using build {0}. This menu was created by Seralyth Software. This menu is completely free and open sourced, if you paid for this menu you have been scammed. There are a total of <b>{1}</b> mods on this menu. <color=red>Seralyth is not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility.\n\nCurrent status: <b>Fully functional, undetected</b>\nMade with love by the community.\n\n<alpha=128>{2} {0} {3}<alpha=255>",
   "admins": [
-    {
-      "name": "ZlothY",
-      "user-id": "FF912EF4590C7E35",
-      "discord-id": "832552302027079710"
-    },
-    {
-      "name": "test",
-      "user-id": "EF42CBBAEBE42EA",
-      "discord-id": "1244744453990776932"
-    },
-    {
-      "name": "industry",
-      "user-id": "4605B2A0900028E1",
-      "discord-id": "1340165954981724255"
-    },
-    {
-      "name": "NovaIsCool",
-      "user-id": "34E8C4F92B2D79BD",
-      "discord-id": "1245524855147859993"
-    },
-    {
-      "name": "smilk",
-      "user-id": "6D98F8C3F4C218C8",
-      "discord-id": "1122611609408381053"
-    },
-    {
-      "name": "Cha",
-      "user-id": "E561B7176AAC1245",
-      "discord-id": "1353949181571633173"
-    },
-    {
-      "name": "lerpyyy",
-      "user-id": "EBF4D7AE3CD9E4E6",
-      "discord-id": "792576219785986090"
-    },
-    {
-      "name": "sub2shibagt",
-      "user-id": "F3E8A56B1E35DACD",
-      "discord-id": "1364897848528736318"
-    },
-    {
-      "name": "multifactor",
-      "user-id": "3EA37234BDD23625",
-      "discord-id": "1392621350249824486"
-    },
-    {
-      "name": "onynring",
-      "user-id": "BC47DD4A488A0302",
-      "discord-id": "311503550951981056"
-    },
-    {
-      "name": "kingofnetflix",
-      "user-id": "19CC01E8F0B98F01",
-      "discord-id": "1479765842131681350"
-    },
      {
       "name": "VR12",
       "user-id": "707651F6F1AD29F8",
@@ -190,7 +135,9 @@
     "1x1x1x1VR123",
     "DeadAndGone5154",
     "crimsone-chan",
-    "Alta"
+    "Alta",
+    "CubePanel"
+    
   ],
   "april_fools": {
     "sex": false
