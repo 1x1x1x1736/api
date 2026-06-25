@@ -86,11 +86,6 @@
       "discord-id": "1361940738828664945"
     },
      {
-     "name": "crimsone-chan",
-      "user-id": "F8B6C8CF1A444EC3",
-      "discord-id": "1505252342566490363"
-    },
-     {
      "name": "Larp",
       "user-id": "621C2851D942720B",
       "discord-id": "1162848879427997856"
@@ -99,11 +94,6 @@
      "name": "Lexi",
       "user-id": "ECA1FAD872EC5EF3",
       "discord-id": "1361940738828664945"
-    },
-     {
-     "name": "ShibaGT",
-      "user-id": "2B3F91D308F7100F",
-      "discord-id": "1505252342566490363"
     },
      {
      "name": "Alta",
@@ -120,7 +110,6 @@
   "super-admins": [
     "kingofnetflix",
     "multifactor",
-    "ShibaGT",
     "VR12",
     "Jalaxy",
     "Quackers",
@@ -134,7 +123,6 @@
     "Sprinkle",
     "1x1x1x1VR123",
     "DeadAndGone5154",
-    "crimsone-chan",
     "Alta",
     "CubePanel"
     
