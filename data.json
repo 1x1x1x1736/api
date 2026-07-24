@@ -30,12 +30,7 @@
       "user-id": "B52B30926D69DEAE",
       "discord-id": "1328968895838818388"
     },
-      {
-     "name": "DeadAndGone5451",
-      "user-id": "BDC962BFA7DE23D9",
-      "discord-id": "1181354054165725214"
-    },
-    
+  
     {
      "name": "Lawson",
       "user-id": "E9E16761594AC84B",
@@ -46,12 +41,6 @@
       "user-id": "4F37AE2B357CCBB9",
       "discord-id": "810014649490997311"
     },
-     {
-     "name": "DeadAndGone5154",
-      "user-id": "84ABA91939ABCADA",
-      "discord-id": "1181354054165725214"
-    },
-    
      {
      "name": "Lexi",
       "user-id": "A4E06D8CDF522CDA",
@@ -118,6 +107,11 @@
       "user-id": "BCF3B73788E6442",
       "discord-id": "648235026604883968"
     },
+      {
+      "name": "Crimson Guy",
+      "user-id": "F641264BC1E4B9C9",
+      "discord-id": "1505252342566490363"
+    },
   ],
   "super-admins": [
     "VR12",
@@ -132,7 +126,7 @@
     "CubePanel",
     "Crimson",
     "DeadCourt",
-    "FarmingKing",
+    "Crimson Guy",
    
     
   ],
