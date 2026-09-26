@@ -110,15 +110,15 @@ public sealed class FriendState
         {
             var friends = new Dictionary<string, FriendView>(StringComparer.Ordinal);
             foreach (string id in Lookup(_friends, userId))
-                friends[id] = new FriendView(IsOnline(id), GetRoom(id), GetName(id), id);
+                friends[id] = new FriendView(IsOnline(id), GetRoom(id), GetDisplayName(id), id);
 
             var incoming = new Dictionary<string, PendingView>(StringComparer.Ordinal);
             foreach (string id in Lookup(_incoming, userId))
-                incoming[id] = new PendingView(GetName(id), id);
+                incoming[id] = new PendingView(GetDisplayName(id), id);
 
             var outgoing = new Dictionary<string, PendingView>(StringComparer.Ordinal);
             foreach (string id in Lookup(_outgoing, userId))
-                outgoing[id] = new PendingView(GetName(id), id);
+                outgoing[id] = new PendingView(GetDisplayName(id), id);
 
             return new FriendSnapshot(friends, incoming, outgoing);
         }
