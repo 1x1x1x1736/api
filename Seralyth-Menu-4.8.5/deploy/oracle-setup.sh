@@ -2,9 +2,13 @@
 # Seralyth Menu API - Oracle Cloud Always Free VM setup (ARM Ampere A1 / aarch64)
 #
 # Usage on the VM (after creating it in the OCI console):
-#   git clone <your-repo-url> seralyth-menu-api
-#   cd seralyth-menu-api
+#   git clone https://github.com/1x1x1x1736/api.git
+#   cd api/Seralyth-Menu-4.8.5
 #   sudo bash deploy/oracle-setup.sh
+#
+# The script resolves its own location, so any working directory works as long
+# as this file keeps its place next to Server/. It publishes the ASP.NET Core
+# project from source, so the .NET SDK is installed, not just the runtime.
 #
 # Safe to re-run: it is idempotent.
 
@@ -23,7 +27,7 @@ die() { printf '\033[1;31m[error]\033[0m %s\n' "$*" >&2; exit 1; }
 
 SRC_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 log "source directory: $SRC_DIR"
-[ -f "$SRC_DIR/Server/Server.csproj" ] || die "Server/Server.csproj not found - run this from the repo root"
+[ -f "$SRC_DIR/Server/Server.csproj" ] || die "Server/Server.csproj not found next to deploy/ - run this from the Seralyth-Menu-4.8.5 source folder"
 
 # ---------------------------------------------------------------- .NET 9
 if [ ! -x "$DOTNET_DIR/dotnet" ]; then
