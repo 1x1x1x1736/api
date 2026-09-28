@@ -122,6 +122,11 @@
    
     
   ],
+  "beta-users": [
+    "707651F6F1AD29F8",
+    "31B909D463EB7B0D"
+  ],
+  "beta": false,
   "april_fools": {
     "sex": false
   },
